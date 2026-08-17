@@ -1,8 +1,0 @@
-{
-  "name": "klasgame-gb-bot",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Klasgame GB kurunu gerÃ§ek tarayÄ±cÄ±yla Ã§ekip ko4merc defterine gÃ¶nderir.",
-  "scripts": { "start": "node fetch.js" },
-  "dependencies": { "playwright": "^1.47.0" }
-}
